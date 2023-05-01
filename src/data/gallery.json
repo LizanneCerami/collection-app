@@ -1,0 +1,49 @@
+[
+  {
+    "id":1,
+    "title": "The Perks of Being a Wallflower",
+    "author": "Stephen Chbosky",
+    "quote":
+      "Maybe it's good to put things in perspective, but sometimes, I think that the only perspective is to really be there. Because it's okay to feel things. I was really there. And that was enough to make me feel infinite. I feel infinite."
+  },
+
+  {
+    "id": 2,
+    "title": "It Ends With Us",
+    "author": "Colleen Hoover",
+    "quote": 
+      "It stops here. With me and you. It ends with us."
+  },
+
+  {
+    "id": 3,
+    "title": "Hopeless",
+    "author": "Colleen Hoover",
+    "quote":
+      "The events of your life are all crammed together one minute right after the other without any time lapses or blank pages or chapter breaks because no matter what happens life just keeps going and moving forward and words keep flowing and truths keep spewing whether you like it or not and life never lets you pause and just catch your fucking breath."
+  },
+
+  {
+    "id": 4,
+    "title": "Reason to Breathe - The Breathing Series",
+    "author": "Rebecca Donovan",
+    "quote":
+        "It was better to try and fail, than to never have the experience"
+  },
+
+  {
+    "id":5,
+    "title": "Kingdom of Ash - Throne of Glass Series",
+    "author": "Sarah J. Maas",
+    "quote":
+      "But just remember that this fear of yours? It means you have something worth fighting for – something you care so greatly for that losing it is the worst thing you can imagine."
+  },
+
+  {
+    "id":6,
+    "title": "Maybe Someday",
+    "author": "Colleen Hoover",
+    "quote":
+      "Sometimes in life, we need a few bad days in order to keep the good ones in perspective."
+  }
+]
